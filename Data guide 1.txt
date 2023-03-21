@@ -82,70 +82,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/Hhc3eaf.png",
+      "title": "case opening 1",
+        "text_Content": "Case opening is a popular phenomenon in the gaming community, particularly in games that involve cosmetic items such as skins, cases, and crates. Case opening involves the purchase of a virtual container that holds one or more random items, which can range from common to rare or even ultra-rare. This process is often associated with excitement and anticipation, as players hope to receive valuable and desirable items that they can use to personalize their in-game experience or sell for real-world currency.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/Hhc3O3G.jpg",
+      "title": "case opening 2",
+        "text_Content": "Case opening is a popular phenomenon in the gaming community, particularly in games that involve cosmetic items such as skins, cases, and crates. Case opening involves the purchase of a virtual container that holds one or more random items, which can range from common to rare or even ultra-rare. This process is often associated with excitement and anticipation, as players hope to receive valuable and desirable items that they can use to personalize their in-game experience or sell for real-world currency.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/Hhc3w4s.jpg",
+      "title": "case opening 3",
+        "text_Content": "Case opening is a popular phenomenon in the gaming community, particularly in games that involve cosmetic items such as skins, cases, and crates. Case opening involves the purchase of a virtual container that holds one or more random items, which can range from common to rare or even ultra-rare. This process is often associated with excitement and anticipation, as players hope to receive valuable and desirable items that they can use to personalize their in-game experience or sell for real-world currency.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/Hhc3hCX.jpg",
+      "title": "case opening 4",
+        "text_Content": "Case opening is a popular phenomenon in the gaming community, particularly in games that involve cosmetic items such as skins, cases, and crates. Case opening involves the purchase of a virtual container that holds one or more random items, which can range from common to rare or even ultra-rare. This process is often associated with excitement and anticipation, as players hope to receive valuable and desirable items that they can use to personalize their in-game experience or sell for real-world currency.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/Hhc3WQt.jpg",
+      "title": "case opening 5",
+        "text_Content": "The thrill of case opening comes from the excitement of the unknown. Players have no way of knowing what they will receive from a case until they open it, which adds an element of surprise and anticipation. The rarity of the items in the case also adds to the excitement, as players hope to receive something rare or valuable.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/Hhc3VjI.jpg",
+      "title": "case opening 6",
+        "text_Content": "However, case opening has also been criticized for its similarity to gambling. In some cases, players can spend significant amounts of money on cases and receive only low-value items, leading to frustration and disappointment. Additionally, some players have reported becoming addicted to the thrill of case opening, leading to financial problems and other issues.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/Hhc3jGn.jpg",
+      "title": "case opening 7",
+        "text_Content": "However, case opening has also been criticized for its similarity to gambling. In some cases, players can spend significant amounts of money on cases and receive only low-value items, leading to frustration and disappointment. Additionally, some players have reported becoming addicted to the thrill of case opening, leading to financial problems and other issues.",
+        "text_Content_1": ""
 
 
 
